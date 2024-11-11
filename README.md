@@ -10,4 +10,3 @@ Java8, Core Java, Advanced Java, SpringBoot, REST web services, Microservivces
 Gym workout, Powerlifting 
 
 💻 Tech Stack:
-NodeJS 
