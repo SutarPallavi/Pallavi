@@ -4,10 +4,11 @@
 Reactive programming, webx and Mono. 
 
 💬 Ask me about:
-Java8, Core Java, Advanced Java, SpringBoot, REST web services, Microservivces
+Java8, Core Java, Advanced Java, SpringBoot, REST web services, Microservices
 
 ⚡ Interests Apart from coding:
 Gym workout, Powerlifting 
+
 
 💻 Tech Stack:
 
